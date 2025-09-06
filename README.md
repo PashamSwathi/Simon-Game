@@ -1,1 +1,1 @@
-Simon Game is basically a memory retention capacity game. The user has to remember the previous sequence in order to generate the next seqeuence. When the user enters the wrong sequence it generates beep sound. 
+Simon Game is basically a memory retention capacity game. The user has to remember the previous sequence in order to generate the next seqeuence. When the user enters the wrong sequence it generates beep sound. It is just like a stress relief game . 
